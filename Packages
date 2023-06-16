@@ -17,3 +17,18 @@ Description: Chat for Communities and Friends
  Discord is the easiest way to communicate over voice, video, and text. Chat,
  hang out, and stay close with your friends and communities.
 
+Package: prismlauncher
+Version: 7.1-1
+Architecture: amd64
+Maintainer: dada513 <dada513@protonmail.com>
+Depends: libqt5svg5, qt5-image-formats-plugins, libqt5xml5, libqt5core5a, libqt5network5, libqt5gui5
+Recommends: java-runtime (= 8), java-runtime (= 17)
+Filename: ./prismlauncher_7.1-1_amd64.deb
+Size: 5863976
+MD5sum: 8a035b369e1c86f49759572a5014ce6c
+SHA1: 9572b4da43998846d8bb78443764eb81e9120362
+SHA256: 551c0d2d2448f86a877ec8e6570cd3bc7ee8a81d7ba177815c27ec272b011cec
+Homepage: https://prismlauncher.org
+Description: Minecraft launcher with ability to manage multiple instances.
+License: GPL3
+
