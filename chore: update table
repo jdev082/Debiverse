@@ -4,4 +4,5 @@ Debian package repository.
 # Packages
 | Package Name  | Version       |
 | ------------- | ------------- |
-| Discord       | 0.0.27        |
+| discord       | 0.0.27        |
+| prismlauncher | 7.1.0
