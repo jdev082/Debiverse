@@ -32,6 +32,26 @@ Description: Chat for Communities and Friends
  Discord is the easiest way to communicate over voice, video, and text. Chat,
  hang out, and stay close with your friends and communities.
 
+Package: heroic
+Version: 2.8.0
+Architecture: amd64
+Maintainer: Heroic Games Launcher <heroicgameslauncher@protonmail.com>
+Installed-Size: 350005
+Depends: curl
+Recommends: libappindicator3-1
+Filename: packages/heroic_2.8.0_amd64.deb
+Size: 98682940
+MD5sum: ca8776792fa68757d9701936ce3733fa
+SHA1: 018569a1ebc9faeb62262afecf5fd1a6a8a19406
+SHA256: be794b042fa67946198d0f2fb4449da40bcd57378ed0b346b6e936ea5c471d23
+Section: games
+Priority: optional
+Homepage: https://./
+Description:
+  An Open Source Launcher for GOG and Epic Games
+License: GPL-3.0-only
+Vendor: Heroic Games Launcher <heroicgameslauncher@protonmail.com>
+
 Package: obsidian
 Version: 1.3.5
 Architecture: amd64

@@ -13,4 +13,5 @@ discord 0.0.27 \
 prismlauncher 7.1.0 \
 obsidian 1.3.5 \
 youtube-music 1.20.0 \
-appimagelauncher 2.2.0
+appimagelauncher 2.2.0 \
+heroic 2.8.0
