@@ -1,2 +1,2 @@
-# Debverse
+# Debiverse
 Debian package repository.
