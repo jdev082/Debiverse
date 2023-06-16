@@ -1,0 +1,19 @@
+Package: discord
+Version: 0.0.27
+Architecture: amd64
+Maintainer: Discord Maintainer Team <native-team@discord.com>
+Installed-Size: 223012
+Depends: libc6, libasound2, libatomic1, libgconf-2-4, libnotify4, libnspr4, libnss3, libstdc++6, libxss1, libxtst6, libc++1
+Recommends: libappindicator1 | libayatana-appindicator1
+Filename: ./discord-0.0.27.deb
+Size: 91851386
+MD5sum: 932db913d9d71fa54f14c337ad266c96
+SHA1: 3b5bde7639e8f2220c5273e29998f68f987788de
+SHA256: 50364b11679c5949e69c590227eb56e29f3f47c7b314bffde1e5803ea6be5cc9
+Section: net
+Priority: optional
+Homepage: https://discord.com
+Description: Chat for Communities and Friends
+ Discord is the easiest way to communicate over voice, video, and text. Chat,
+ hang out, and stay close with your friends and communities.
+

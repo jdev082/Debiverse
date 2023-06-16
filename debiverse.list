@@ -1,0 +1,1 @@
+deb [signed-by=/etc/apt/trusted.gpg.d/debiverse.gpg] https://jdev082.github.io/debiverse ./

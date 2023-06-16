@@ -1,0 +1,37 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Date: Fri, 16 Jun 2023 20:30:39 +0000
+MD5Sum:
+ b4e22632a849fc8cae0f0d685de51d73              773 Packages
+ a21a66a0d7dbab68fef3b895bd9cd5a5              517 Packages.gz
+ 79817c3c1898deffa233a91becad65c6               38 Release
+SHA1:
+ 963dcdf9337d1e423ffae666fe99b19d7e0f87da              773 Packages
+ bd8afdec5a7175726a539cefb6d04961823a68cd              517 Packages.gz
+ b77be93c18180dfa663c9f503cf5c43c147136fc               38 Release
+SHA256:
+ 851f71187b0a3d63a0e53fc98cc48723e1ac481076bce132851a1b37c677a062              773 Packages
+ b6ea3d647a387e983c3f786b16c28a0e3bfa9afa855c0dc2421a6728ceae1844              517 Packages.gz
+ 5242c61e027b663077ae4668af0f9d89ea2eef36d41192d04f8ce75b389aaec7               38 Release
+SHA512:
+ 08da5d5a3b1048b4aaf4f248040095b2983e0bff665ae455bbd0180f67b6164e9e7d9e1f9a4448ca732fdec10486717b3af8332377e4dde76bbb63065d1839f8              773 Packages
+ 5b80bc47375b405f9366a8209586be16f87188dac1105966a0033a7d013a8c10cf0a412cb44d23bf97890f303c14ccdb18e4ea39e3d3fc9129a736e3f5424adf              517 Packages.gz
+ e8c27949c8862b1d95b327a06fb1970f3eba72048c78514c68494c38dcdd191a6eabc7d8683de06b533a3ecfbe518f3592be6d82ab45569d4020a369c096d9c9               38 Release
+-----BEGIN PGP SIGNATURE-----
+
+iQJIBAEBCgAyFiEE5EckavQ5+T5sFfKSEduLaO1Q0V8FAmSMxnYUHGpkZXYwODJA
+amRldi5ldS5vcmcACgkQEduLaO1Q0V9CQRAAh66oPQNT/7qyzARcuod7PPj2dBeC
+k1ROy35kKgLYLN+qBx+yxoxuk3o+lVtleA+8nv/uLPOiNTGRMaKPzb85qUWH7rgo
+YWaVaVU/Lu/YaAJlZeMSdGQnw5fe5KNztoxIW9v2Sf9E8kwlVy1NVNxjilLWfSCA
+NgmNNWYj77WqqIDrhn35vdYqfzt1hN0QCl1mmR1b2kny9Db97L7QZTPVb9rTVNoa
+UC1h9JcCmqcoS9wOiDjPWFWV0gFttGqIlfF1KVHAwILLlzbHiHA80aco5O7ipQ88
+HXbIZktbbbLiZ1s0S2I/+eG3vw0pQ5tbE0fUwLq72newabFd1c1xwwGeag9VTaVE
+EkTVQea0/6fGtnm56c+xlVAN2jFHMlbwDqHo0HIHtuSQMtyPtXHzoj8G5s0Uk+Lo
+6TlLDjsTdx6LWXJRuvXI8bCmPtzTnR186oYD/KJlh31PsFUBD0cTGijUOd9biWmx
+AUB8X5wqpK1/kVEIzP4ySNUcts/WLw4Hun+L5bv+yFvlqkokSK3v3S+ntfYivcRP
+wSrx852aT8GaX4YsAtD1axwihx8ekwzQWATI0UqEcXQdjFvIxvbYd4tPAXcOBnhX
+daDaNI8G+9j3YhiduCDJtavLki8Ww9ewDGoLLZXjXdbW1GP4iKuehMuVynmSASfW
+gEghc4q5oAW0LWg=
+=Bhar
+-----END PGP SIGNATURE-----
