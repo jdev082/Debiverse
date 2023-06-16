@@ -17,6 +17,26 @@ Description: Chat for Communities and Friends
  Discord is the easiest way to communicate over voice, video, and text. Chat,
  hang out, and stay close with your friends and communities.
 
+Package: obsidian
+Version: 1.3.5
+Architecture: amd64
+Maintainer: Dynalist Inc.
+Installed-Size: 259414
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Filename: ./obsidian_1.3.5_amd64.deb
+Size: 72916766
+MD5sum: 1c357d65ac937559c4ef906b793ddece
+SHA1: 02e01854bbb4ffaf26f254b22d8829f08a627018
+SHA256: 7c668295015aa743ce350de233569fa0e6e807e1e736193be9192dbec16919a2
+Section: default
+Priority: optional
+Homepage: https://obsidian.md
+Description:
+  Obsidian
+License: UNLICENSED
+Vendor: Dynalist Inc.
+
 Package: prismlauncher
 Version: 7.1-1
 Architecture: amd64
