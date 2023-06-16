@@ -1,3 +1,18 @@
+Package: appimagelauncher
+Version: 2.2.0-travis995~0f91801+bionic
+Architecture: amd64
+Maintainer: TheAssassin
+Installed-Size: 45192
+Depends: libc6 (>= 2.27), libcairo2 (>= 1.2.4), libcurl4 (>= 7.16.2), libgcc1 (>= 1:3.0), libglib2.0-0 (>= 2.39.4), libqt5core5a (>= 5.9.0~beta), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.7.0), libqt5widgets5 (>= 5.2.0~alpha1), librsvg2-2 (>= 2.14.4), libstdc++6 (>= 6), zlib1g (>= 1:1.1.4)
+Filename: packages/appimagelauncher_2.2.0-travis995.0f91801.bionic_amd64.deb
+Size: 5915004
+MD5sum: 9c5454ff246bf03f7b4b981afbe8a63a
+SHA1: 2f7d4ad08c95ec5c599dd52a80eb984854283c34
+SHA256: f4b9db56a6ba7dd091074b14157612986a9f6a0cb3fcd230abfc8f4555c70a7f
+Section: devel
+Priority: optional
+Description: AppImageLauncher built using CMake
+
 Package: discord
 Version: 0.0.27
 Architecture: amd64
@@ -5,7 +20,7 @@ Maintainer: Discord Maintainer Team <native-team@discord.com>
 Installed-Size: 223012
 Depends: libc6, libasound2, libatomic1, libgconf-2-4, libnotify4, libnspr4, libnss3, libstdc++6, libxss1, libxtst6, libc++1
 Recommends: libappindicator1 | libayatana-appindicator1
-Filename: ./discord-0.0.27.deb
+Filename: packages/discord-0.0.27.deb
 Size: 91851386
 MD5sum: 932db913d9d71fa54f14c337ad266c96
 SHA1: 3b5bde7639e8f2220c5273e29998f68f987788de
@@ -24,7 +39,7 @@ Maintainer: Dynalist Inc.
 Installed-Size: 259414
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
-Filename: ./obsidian_1.3.5_amd64.deb
+Filename: packages/obsidian_1.3.5_amd64.deb
 Size: 72916766
 MD5sum: 1c357d65ac937559c4ef906b793ddece
 SHA1: 02e01854bbb4ffaf26f254b22d8829f08a627018
@@ -43,7 +58,7 @@ Architecture: amd64
 Maintainer: dada513 <dada513@protonmail.com>
 Depends: libqt5svg5, qt5-image-formats-plugins, libqt5xml5, libqt5core5a, libqt5network5, libqt5gui5
 Recommends: java-runtime (= 8), java-runtime (= 17)
-Filename: ./prismlauncher_7.1-1_amd64.deb
+Filename: packages/prismlauncher_7.1-1_amd64.deb
 Size: 5863976
 MD5sum: 8a035b369e1c86f49759572a5014ce6c
 SHA1: 9572b4da43998846d8bb78443764eb81e9120362
@@ -51,4 +66,24 @@ SHA256: 551c0d2d2448f86a877ec8e6570cd3bc7ee8a81d7ba177815c27ec272b011cec
 Homepage: https://prismlauncher.org
 Description: Minecraft launcher with ability to manage multiple instances.
 License: GPL3
+
+Package: youtube-music
+Version: 1.20.0
+Architecture: amd64
+Maintainer: th-ch <th-ch@users.noreply.github.com>
+Installed-Size: 308000
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Filename: packages/youtube-music_1.20.0_amd64.deb
+Size: 79824826
+MD5sum: 93abfda81191bf2b3d6b045e3486e21f
+SHA1: 96609afe5a23ccc39e73f0ce725d77cba9d2cd18
+SHA256: dbefcfdcab7df20be27690b9ecb0762816be61988b0371af7b2f0afb24b66494
+Section: default
+Priority: optional
+Homepage: https://github.com/th-ch/youtube-music#readme
+Description:
+  YouTube Music Desktop App - including custom plugins
+License: MIT
+Vendor: th-ch <th-ch@users.noreply.github.com>
 
