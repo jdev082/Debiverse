@@ -4,7 +4,7 @@ Architecture: amd64
 Maintainer: TheAssassin
 Installed-Size: 45192
 Depends: libc6 (>= 2.27), libcairo2 (>= 1.2.4), libcurl4 (>= 7.16.2), libgcc1 (>= 1:3.0), libglib2.0-0 (>= 2.39.4), libqt5core5a (>= 5.9.0~beta), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.7.0), libqt5widgets5 (>= 5.2.0~alpha1), librsvg2-2 (>= 2.14.4), libstdc++6 (>= 6), zlib1g (>= 1:1.1.4)
-Filename: packages/appimagelauncher_2.2.0-travis995.0f91801.bionic_amd64.deb
+Filename: ./packages/appimagelauncher_2.2.0-travis995.0f91801.bionic_amd64.deb
 Size: 5915004
 MD5sum: 9c5454ff246bf03f7b4b981afbe8a63a
 SHA1: 2f7d4ad08c95ec5c599dd52a80eb984854283c34
@@ -20,7 +20,7 @@ Maintainer: Discord Maintainer Team <native-team@discord.com>
 Installed-Size: 223012
 Depends: libc6, libasound2, libatomic1, libgconf-2-4, libnotify4, libnspr4, libnss3, libstdc++6, libxss1, libxtst6, libc++1
 Recommends: libappindicator1 | libayatana-appindicator1
-Filename: packages/discord-0.0.27.deb
+Filename: ./packages/discord-0.0.27.deb
 Size: 91851386
 MD5sum: 932db913d9d71fa54f14c337ad266c96
 SHA1: 3b5bde7639e8f2220c5273e29998f68f987788de
@@ -39,7 +39,7 @@ Maintainer: Heroic Games Launcher <heroicgameslauncher@protonmail.com>
 Installed-Size: 350005
 Depends: curl
 Recommends: libappindicator3-1
-Filename: packages/heroic_2.8.0_amd64.deb
+Filename: ./packages/heroic_2.8.0_amd64.deb
 Size: 98682940
 MD5sum: ca8776792fa68757d9701936ce3733fa
 SHA1: 018569a1ebc9faeb62262afecf5fd1a6a8a19406
@@ -59,7 +59,7 @@ Maintainer: Dynalist Inc.
 Installed-Size: 259414
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
-Filename: packages/obsidian_1.3.5_amd64.deb
+Filename: ./packages/obsidian_1.3.5_amd64.deb
 Size: 72916766
 MD5sum: 1c357d65ac937559c4ef906b793ddece
 SHA1: 02e01854bbb4ffaf26f254b22d8829f08a627018
@@ -78,7 +78,7 @@ Architecture: amd64
 Maintainer: dada513 <dada513@protonmail.com>
 Depends: libqt5svg5, qt5-image-formats-plugins, libqt5xml5, libqt5core5a, libqt5network5, libqt5gui5
 Recommends: java-runtime (= 8), java-runtime (= 17)
-Filename: packages/prismlauncher_7.1-1_amd64.deb
+Filename: ./packages/prismlauncher_7.1-1_amd64.deb
 Size: 5863976
 MD5sum: 8a035b369e1c86f49759572a5014ce6c
 SHA1: 9572b4da43998846d8bb78443764eb81e9120362
@@ -87,6 +87,23 @@ Homepage: https://prismlauncher.org
 Description: Minecraft launcher with ability to manage multiple instances.
 License: GPL3
 
+Package: twin
+Version: 0.9.0-1
+Architecture: amd64
+Maintainer: jdev082 <jdev082@jdev.eu.org>
+Installed-Size: 7938
+Depends: libc6 (>= 2.34), libcrypt1 (>= 1:4.1.0), libstdc++6 (>= 4.1.1), libx11-6, zlib1g (>= 1:1.1.4)
+Filename: ./packages/twin_0.9.0-1_amd64.deb
+Size: 694784
+MD5sum: 7aec088f55b91ebb832d842545eef93e
+SHA1: 62e6b0acd2f32ffeaa751ec5f093800f130b4290
+SHA256: 3fbbbd919997f0ac0fad333b372f515d59cd0772569fc80ddecdf2d53009964b
+Section: unknown
+Priority: optional
+Homepage: https://github.com/cosmos72
+Description: Text mode window environment.
+ Text mode window environment. A "retro" program for embedded or remote systems, that doubles as X11 terminal and text-mode equivalent of VNC server
+
 Package: youtube-music
 Version: 1.20.0
 Architecture: amd64
@@ -94,7 +111,7 @@ Maintainer: th-ch <th-ch@users.noreply.github.com>
 Installed-Size: 308000
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
-Filename: packages/youtube-music_1.20.0_amd64.deb
+Filename: ./packages/youtube-music_1.20.0_amd64.deb
 Size: 79824826
 MD5sum: 93abfda81191bf2b3d6b045e3486e21f
 SHA1: 96609afe5a23ccc39e73f0ce725d77cba9d2cd18
