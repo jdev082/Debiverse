@@ -87,23 +87,6 @@ Homepage: https://prismlauncher.org
 Description: Minecraft launcher with ability to manage multiple instances.
 License: GPL3
 
-Package: twin
-Version: 0.9.0-1
-Architecture: amd64
-Maintainer: jdev082 <jdev082@jdev.eu.org>
-Installed-Size: 7938
-Depends: libc6 (>= 2.34), libcrypt1 (>= 1:4.1.0), libstdc++6 (>= 4.1.1), libx11-6, zlib1g (>= 1:1.1.4)
-Filename: ./packages/twin_0.9.0-1_amd64.deb
-Size: 694784
-MD5sum: 7aec088f55b91ebb832d842545eef93e
-SHA1: 62e6b0acd2f32ffeaa751ec5f093800f130b4290
-SHA256: 3fbbbd919997f0ac0fad333b372f515d59cd0772569fc80ddecdf2d53009964b
-Section: unknown
-Priority: optional
-Homepage: https://github.com/cosmos72
-Description: Text mode window environment.
- Text mode window environment. A "retro" program for embedded or remote systems, that doubles as X11 terminal and text-mode equivalent of VNC server
-
 Package: youtube-music
 Version: 1.20.0
 Architecture: amd64
