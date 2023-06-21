@@ -14,7 +14,4 @@ prismlauncher 7.1.0 \
 obsidian 1.3.5 \
 youtube-music 1.20.0 \
 appimagelauncher 2.2.0 \
-heroic 2.8.0 \
-virtualbox 6.1.32 \
-virtualbox-qt 6.1.32 \
-virtualbox-dkms 6.1.32
+heroic 2.8.0
